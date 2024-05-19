@@ -15,5 +15,5 @@ Pod::Spec.new do |spec|
 
   spec.source_files = 'Sources/ASN1/**/*.swift'
 
-  spec.dependency 'BigInt', '~> 1.16.0'
+  spec.dependency 'BigInt'
 end
